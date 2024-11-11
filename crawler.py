@@ -23,3 +23,16 @@ class CrawlerSpider(scrapy.Spider):
 
             
             yield response.follow(link_completo, callback=self.parse_item, meta={'lista': lista})
+
+     # Adicionando o método parse_item para coletar mais informações de cada item
+    def parse_item(self, response):
+        lista = response.meta['lista']  
+
+        # Extraindo o texto da classe body
+        body_text = ' '.join(response.css('.body *::text').getall()).strip()
+
+        if body_text:
+            lista['body_text'] = body_text
+
+        # Retorna o dicionário atualizado
+        yield lista
