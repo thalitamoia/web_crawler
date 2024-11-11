@@ -1,0 +1,147 @@
+nome,link,body_text,tabs_nav
+Bibliovigilance,https://itclinical.com/bibliovigilance.php,"We give you full disclosure – you can see at any time the publications indexed in Bibliovigilance.
+						 
+						 
+Bibliovigilance includes a database with dozens of the most important national scientific publications for several European countries ( Portugal, Spain, Italy, France, Netherlands  and other European countries), as well as PRAC recommendations on signals. 
+	 					 Save your queries 
+						 
+Bibliovigilance allows you to you can save the searches and to run them automatically or by simply clicking a button. You can also choose to search for new articles since the last time a search term was run. 
+						 Search History 
+						 
+All searches are stored in personal area so that information is not lost. You can also build your library of articles of interest.","[{'titulo': 'Bibliovigilance Highlights', 'link': 'https://itclinical.com/bibliovigilance.php#tab1'}]"
+CTMS,https://itclinical.com/ctms.php,"Monitors can create reports for Site qualification, Site Initiation, monitoring and closeout visits online. These reports can be customized if you
+							have specific needs. 
+						 QA Reports 
+						 Quality Assurance can also centralize their work by filling their reports directly in the CTMS. 
+					 
+							 A shared file archive location is ideal to share clinical trial related documents with stakeholders. As a centrally located service, all users
+								will be able to share and access important trial documents. 
+
+							 Electronic Trial Master File 
+							 A separate file section is ideal to create an electronic Trial Master File archive for your trial. Access to these documents can be restricted to
+								the users you define. 
+						 
+							 The SOP section is designed to add, list and retrieve SOPs. You can use it to centralize access to your trial's SOPs 
+							 With the ability to add files, this feature can help you centralize and share access to the relevant SOPs amongst all stakeholders.
+						 
+						 
+							As in our other tools, the CTMS complies with regulatory requirements for electronic systems.  A thorough audit trail system registers every change
+							in the system.  A flexible authentication and authorization system allows restricting access to the system and to the functionalities each user can
+							perform.  By collecting data as electronic source data, transcription errors decrease and trial data accuracy is optimized. 
+						 
+					 
+						 Do you have any specific needs in your trial? We can adapt our base product to meet specific requirements, tailoring the application to you. 
+						 
+							Instead of offering a fully fledged solution, we try to understand what you need and provide you with a customized,  cost-effective 
+							solution.","[{'titulo': 'Monitoring & QA', 'link': 'https://itclinical.com/ctms.php#tab1'}, {'titulo': 'File Repository', 'link': 'https://itclinical.com/ctms.php#tab2'}, {'titulo': 'SOP Management', 'link': 'https://itclinical.com/ctms.php#tab5'}, {'titulo': 'Regulatory Compliance', 'link': 'https://itclinical.com/ctms.php#tab3'}, {'titulo': 'Adaptability', 'link': 'https://itclinical.com/ctms.php#tab4'}]"
+IWRS,https://itclinical.com/iwrs.php,"Simple and intutive. The IWRS will allow subjects to be enrolled in your clinical trial 24/7 at an affordable price. 
+						 The IWRS can also communicate with other systems automatically (including our  EDC System , allowing you to use ITClinical's IWRS tool independently while maintaining a communication with an external vendor's tool.  
+					 		
+						 The stock management is an optional module that allows you to register and track your trial stock  by registering movements (shipments and returns) and see movement history in the locations involved in the clinical trial (global and regional depos and investigational sites). 
+						  Optional features within this module include the registration of orders to manufacturer, shipment/return PDF forms and location re-supply triggers. 
+					 
+						 
+							By complying with regulatory requirements for electronic systems, it replaces paper based records which greatly assists you to access product information and records a long time after the trial is closed while avoiding manual searches.
+						 
+						 A flexible authentication and authorization system allows restricting access to the system and to the functionalities each user can perform. 
+						 
+					 
+					 ITClinical can adapt its base product to meet specific requirements, tailoring the application to your needs.
+					 
+					 
+						Instead of offering a fully fledged solution, we try to understand what you need and provide you with a customized,  cost-effective  solution.
+					 
+					 Running on Linux servers, this also means there will be no increased licensing costs.","[{'titulo': 'IWRS', 'link': 'https://itclinical.com/iwrs.php#tab1'}, {'titulo': 'Stock Management', 'link': 'https://itclinical.com/iwrs.php#tab2'}, {'titulo': 'Regulatory Compliance', 'link': 'https://itclinical.com/iwrs.php#tab3'}, {'titulo': 'Adaptability', 'link': 'https://itclinical.com/iwrs.php#tab4'}]"
+EDC,https://itclinical.com/edc.php,"The eCRF module is the central unit of the EDC system. It allows users to collect and manage subject data and export it (including in PDF format for trial master file and trial report). 
+	 					 Powerful Edit Checks 
+						 Edit checks can be configured per trial to issue automatic warnings or to show/hide questions when relevance depends on the context. 
+						 Online Queries 
+						 Issue and reply to queries from within the system for faster turnaround times. The query tool can be used by QA and/or trial monitors to streamline the process and increase efficiency.  In-form query resolution improves data accuracy and streamlines the QA/monitoring process. 
+						 One 
+						 Extensive optional configurations per clinical trial study. 								
+					 					
+							 The Editor Module is aimed at CROs who want to have full control over the CRF implementation. 
+							 If you prefer, our trained staff can take care of this part for you and provide you with the eCRF to fit the study's needs. 
+					 
+		 				 CRF Design allows you to design the eCRF, from how many modules (eg. Visits) the trial will have to the questions that will appear on each page. 
+	 					 Edit Checks can be created for each question, triggering  various types of responses: show warnings to the user, show/hide other questions and answer other questions automatically.
+	 					 
+ 						 	
+ 					 
+						 
+						By complying with regulatory requirements for electronic systems the EDC replaces paper based records.  
+						A thorough audit trail system registers every change in the system. 
+						A flexible authentication and authorization system allows restricting access to the system and to the functionalities each user can perform. 
+						By collecting data as electronic source data, transcription errors decrease and trial data accuracy is optimized. 
+						 
+					 
+					 ITClinical can adapt its base product to meet specific requirements, tailoring the application to your needs.
+					 
+					 
+						Instead of offering a fully fledged solution, we try to understand what you need and provide you with a customized,  cost-effective  solution.
+					 
+					 Running on Linux servers, this also means there will be no increased licensing costs. 
+					 
+						 Phase I trials possess different challenges when EDC is concerned. With shorter life-cycles and similarities between studies,
+						CROs can take advantage of our Phase I module to improve productivity in the fast-paced Phase I world. 
+	 					 eCRF libraries 
+						 With the eCRF library you can build your eCRF templates and use them multiple times as the base for new CRFs with a click of a button. This allows you to set up a new clinical trial in minutes instead of days! 
+						 Real-time data collection 
+						 Retrieving sample collection times is performed in fast-paced conditions - usually with seconds between each sample collection for a volunteer group. 
+						The usual eCRF view per subject is not adequate to these conditions. With our Phase I module, you will be able to see subject data grouped by collection point, so you can use the EDC in real-time, on the ground as you're collecting the samples!
+						 
+						 Volunteer database 
+						 An optional volunteer database can help you keep track of all your volunteer data. This means faster access to volunteers and the ability to reduce data management of information
+						you've already collected.","[{'titulo': 'eCRF', 'link': 'https://itclinical.com/edc.php#tab1'}, {'titulo': 'Editor Module', 'link': 'https://itclinical.com/edc.php#tab2'}, {'titulo': 'Phase I', 'link': 'https://itclinical.com/edc.php#phaseI'}, {'titulo': 'Regulatory Compliance', 'link': 'https://itclinical.com/edc.php#tab3'}, {'titulo': 'Adaptability', 'link': 'https://itclinical.com/edc.php#tab4'}]"
+Pharmacovigilance,https://itclinical.com/pharmacovigilance.php,"The information module is the central unit of the pharmacovigilance system. It allows users to enter and manage suspected adverse event cases (AE/ADRs), browse and search existing cases. 
+						 The Adverse Event information recorded complies with ICH's E2B, thus providing seamless communication with international regulators' systems, such as EudraVigilance. 
+					 
+						  The module for your organisation to centralize  PSUR management activities, from registration and management of upcoming PSUR submissions to generation of  PSUR templates. 
+						 PSUR Calendar 
+						 The PSUR Calendar is a view of upcoming PSURS. It allows users to understand which PSURS are in need of preparation and delivery on a month-to-month or year-to-year basis. 
+ 						 PSUR Manager 
+						  PSUR Manager,  the centre of PSUR management, includes historic information about a product's PSURs and  scheduling of new PSURs. 
+						 PSURs are automatically loaded with the relevant AE/ADRs and the PSUR section templates are created and exported automatically to streamline the PSURs writing activities!
+					 						
+							 The Product Dictionary Module supports the Information and Reporting modules. 
+							 Gathering the necessary information about the products for purposes of notification of an Adverse Reactions, the organisation can centralize the information of its Development and authorized Products. 
+					 							
+							  Part of the standard for reporting adverse events is the MedDRA® thesaurus for classification of adverse events.  
+							The thesaurus module aims at integrating this system of classification for seamless compatibility with EudraVigilance.  
+ 							Dictionaries are also categorized by version, so that new versions of MedDRA® do not compromise the quality of the data already in the system. 
+					 
+						 
+						By complying with regulatory requirements for electronic systems the Pharmacovigilance replaces paper based records. 
+						The management module allows users with sufficient privileges to perform administration tasks. 
+						A thorough audit trail system registers every change in the system. 
+						A flexible authentication and authorization system allows restricting access to the system and to the functionalities each user can perform. 
+						By collecting data as electronic source data, transcription errors decrease and trial data accuracy is optimized. 
+						 
+					 
+					 ITClinical can adapt its base product to meet specific requirements, tailoring the application to your needs.
+					 
+					 
+						Instead of offering a fully fledged solution, we try to understand what you need and provide you with a customized,  cost-effective  solution.
+					 
+					 Running on Linux servers, this also means there will be no increased licensing costs.","[{'titulo': 'Information', 'link': 'https://itclinical.com/pharmacovigilance.php#tab1'}, {'titulo': 'Product Dictionary', 'link': 'https://itclinical.com/pharmacovigilance.php#tab2'}, {'titulo': 'Reporting', 'link': 'https://itclinical.com/pharmacovigilance.php#tab5'}, {'titulo': 'Thesaurus', 'link': 'https://itclinical.com/pharmacovigilance.php#tab6'}, {'titulo': 'Management', 'link': 'https://itclinical.com/pharmacovigilance.php#tab3'}, {'titulo': 'Adaptability', 'link': 'https://itclinical.com/pharmacovigilance.php#tab4'}]"
+IMPO,https://itclinical.com/impo.php,"Products and batches can be added and managed within the IMPO system. The system manages basic information, such as product storage conditions and manufacturer. 
+						 Once the product is registered, users can record product/device shipments, thus allowing unitary traceability of dosage forms or devices. Queries can be performed to quickly retrieve information from the system.  
+	 					 Attach files 
+						 Extra files can be added to a drug accountability page - useful to quickly access information such as External package or patient leaflet information. 
+						 Product Shipment Forms 
+						 Simple product shipment forms can be generated on the fly so they can be added to the shipment package. 
+						 Clinical Trials 
+						 The IMPO system has a simple Clinical Trial management module. By registering very basic Trial information, medication/devices can be associated and queried by clinical trial.  
+					 
+						 
+						By complying with regulatory requirements for electronic systems it replaces paper based records.  
+						A thorough audit trail system registers every change in the system. 
+						A flexible authentication and authorization system allows restricting access to the system and to the functionalities each user can perform. 
+						 
+					 
+					 ITClinical can adapt its base product to meet specific requirements, tailoring the application to your needs.
+					 
+					 
+						Instead of offering a fully fledged solution, we try to understand what you need and provide you with a customized,  cost-effective  solution.
+					 
+					 Running on Linux servers, this also means there will be no increased licensing costs.","[{'titulo': 'Drug accountability', 'link': 'https://itclinical.com/impo.php#tab1'}, {'titulo': 'Regulatory Compliance', 'link': 'https://itclinical.com/impo.php#tab3'}, {'titulo': 'Adaptability', 'link': 'https://itclinical.com/impo.php#tab4'}]"
